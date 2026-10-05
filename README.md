@@ -34,6 +34,13 @@ sdmc:/3ds/sampler-3ds/
 
 Drop your own `16-bit mono PCM` WAVs into `samples/` and pick them on the **FILES** page.
 
+## Todo List
+
+- Current version relies to much on touchscreen. Will add controller mappings.
+- User interface on setting page.
+- sfz file support.
+- customisable theme.
+
 ## Credits
 
 - Built with **devkitPro** — `libctru`, `citro2d` / `citro3d`, `tex3ds`, `bannertool`, `makerom`.
@@ -78,6 +85,13 @@ sdmc:/3ds/sampler-3ds/
 ```
 
 把 `16-bit 单声道 PCM` 的 WAV 丢进 `samples/`，然后在 **FILES** 页里选。
+
+## 更新计划
+
+- 当前版本过于依赖触摸屏。将添加控制器映射功能。
+- 设置页面的用户界面优化。
+- 支持 SFZ 文件。
+- 可自定义主题。
 
 ## 致谢
 

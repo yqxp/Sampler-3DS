@@ -1,6 +1,8 @@
 # Sampler-3DS
 This is a (not really) simple 3DS sampler. Multisample supported. 
 
+![SAMPLER / PATTERN / FX pages](docs/images/Screenshots.png)
+
 Up to **8 zones** — a zone is a key range, a sample and a full set of patch parameters — so for example, a kick, a bass, a guitar and a lead can live in one pattern (yes there is piano roll too). 
 
 ## Features
